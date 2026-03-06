@@ -1,0 +1,7 @@
+## Title: Dragon Slayer
+## Author: @blue.enoki
+## Version: 1.0
+## APIVersion: 101048
+
+Bindings.xml
+DragonSlayer.lua
